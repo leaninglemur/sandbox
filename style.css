@@ -48,9 +48,9 @@ ul {
   background: orange;
   width: 0%;
 } 
-.nameplate{
-  height: 800 px;
-}
+/* .profile{
+  height: 80px;
+} */
 /* Make sure that padding behaves as expected */
 * {box-sizing:border-box}
 
@@ -77,8 +77,44 @@ ul {
   color: white; /* White text color */
 }
 
-.chemeng {width: 100%; background-color: orange; height: 8px; border-radius: 4px;}
-.ops {width: 60%; background-color: orange; height: 8px; border-radius: 4px;}
-.design {width: 40%; background-color: orange; height: 8px; border-radius: 4px;}
-.programming {width: 30%; background-color: orange; height: 8px; border-radius: 4px;}
-.startups {width: 50%; background-color: orange; height: 8px; border-radius: 4px;}
+.chemeng {
+  width: 100%; 
+  background-color: orange; 
+  height: 8px; 
+  border-radius: 4px;
+}
+.ops {
+  width: 60%; 
+  background-color: orange; 
+  height: 8px; 
+  border-radius: 4px;
+}
+.design {
+  width: 40%; 
+  background-color: orange; 
+  height: 8px; 
+  border-radius: 4px;
+}
+.programming {width: 30%; 
+  background-color: orange; 
+  height: 8px; 
+  border-radius: 4px;
+}
+.startups {
+  width: 50%; 
+  background-color: orange; 
+  height: 8px; 
+  border-radius: 4px;
+}
+
+.column{
+  float: left;
+  padding: 10px;
+}
+
+.column.left{
+  width: 33%;
+}
+.column.right{
+  width: 67%;
+}
