@@ -45,7 +45,7 @@ ul {
 /* The progress bar (scroll indicator) */
 .progress-bar {
   height: 6px;
-  background: orange;
+  background: gold;
   width: 0%;
 } 
 /* .profile{
@@ -79,30 +79,30 @@ ul {
 
 .chemeng {
   width: 100%; 
-  background-color: orange; 
+  background-color: gold; 
   height: 8px; 
   border-radius: 4px;
 }
 .ops {
   width: 60%; 
-  background-color: orange; 
+  background-color: gold; 
   height: 8px; 
   border-radius: 4px;
 }
 .design {
   width: 40%; 
-  background-color: orange; 
+  background-color: gold; 
   height: 8px; 
   border-radius: 4px;
 }
 .programming {width: 30%; 
-  background-color: orange; 
+  background-color: gold; 
   height: 8px; 
   border-radius: 4px;
 }
 .startups {
   width: 50%; 
-  background-color: orange; 
+  background-color: gold; 
   height: 8px; 
   border-radius: 4px;
 }
